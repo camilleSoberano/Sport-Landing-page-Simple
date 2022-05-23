@@ -1,0 +1,85 @@
+[
+    {
+        "id":1,
+        "newsInfo":{
+            "author":"Aimee Lewis",
+            "datePublished":"1012 GMT (1812 HKT) May 20, 2022", 
+            "sportTag":"Tennis", 
+            "tournament":"French Open 2022"
+        }, 
+        "title":"French Open: Carlos Alcaraz and Iga Swiatek are tennis' rising stars",
+        "img":"https://cdn.cnn.com/cnnnext/dam/assets/220509125507-carlos-alcaraz-video-tease-exlarge-169.jpg", 
+        "excerpt":"Alcaraz's rise -- from 141 in the world at the beginning of last year, to sixth now -- offers a much-needed alternative narrative to men's clay court tennis.", 
+        "body":"Twelve months ago, teenager Carlos Alcaraz needed to qualify to make the main draw of the French Open. This year, he is among the favorites to win the men's section of the tournament. His is the sort of meteoric rise sport craves and should he achieve what many are predicting -- win the Coupes des Mousquetaires on the Parisian clay aged 19 -- he will make headlines around the world."
+        
+    }, 
+    {
+        "id":2,
+        "newsInfo":{
+            "author":"Ben Morse",
+            "datePublished":"0009 GMT (0809 HKT) May 23, 2022", 
+            "sportTag":"Golf", 
+            "tournament":"2022 PGA Championship"
+        }, 
+        "title":"Justin Thomas wins 2022 PGA Championship after dramatic three-hole playoff",
+        "img":"https://cdn.cnn.com/cnnnext/dam/assets/220522190917-02b-justin-thomas-pga-champion-2022-exlarge-169.jpg", 
+        "excerpt":"This place is so tough. It was funny I was asked earlier in the week about what lead is safe and I said 'no lead' because this place is so tough. But if you hit the fairways you can make birdies and I stayed so patient. I could not believe that I found myself in a playoff.", 
+        "body":"Thomas won with a score of two-under after the three playoff holes with fellow American Will Zalatoris at Southern Hills Country Club at Tulsa, Oklahoma. The 29-year-old finished his round a shot behind then-leader Mito Pereira, but after the Chilean hit his drive on the 18th hole into the water and finished with a double bogey, the major went to a playoff between the two compatriots"
+        
+    }, 
+    {
+        "id":3,
+        "newsInfo":{
+            "author":"Ben Chuch",
+            "datePublished":"2333 GMT (0733 HKT) May 22, 2022", 
+            "sportTag":"Football", 
+            "tournament":"English Premier League"
+        }, 
+        "title":"Manchester City produces stunning comeback to secure English Premier League title on dramatic final day",
+        "img":"https://cdn.cnn.com/cnnnext/dam/assets/220522174946-ilkay-gundogan-man-city-villa-epl-exlarge-169.jpg", 
+        "excerpt":"City's victory comes 10 years after Sergio Aguero opened the floodgates to a decade of success at Manchester City, scoring a last-gasp goal on the final day of the season to win his side the league title.", 
+        "body":"Manchester City did exactly that when producing a simply stunning comeback to beat Aston Villa 3-2 and win the English Premier League on Sunday. The host knew a win on the final day of the season would guarantee the title and, despite going 2-0 down, it scored three goals in five second-half minutes to send the Etihad Stadium into delirium."
+        
+    },
+    {
+        "id":4,
+        "newsInfo":{
+            "author":"R. KIRUBASHINI",
+            "datePublished":"Monday, 23 May 2022", 
+            "sportTag":"Badminton", 
+            "tournament":"Thailand Open"
+        }, 
+        "title":"Zii Jia can chase bigger goals after stunning victory",
+        "img":"https://apicms.thestar.com.my/uploads/images/2022/05/22/1594174.jpg", 
+        "excerpt":"Lee Zii Jia stunning comeback to capture the Thailand Open title has raised Malaysia’s hope to expect bigger things from the national No. 1.", 
+        "body":"His imperious form is a good sign as he gears up for the Malaysian Open next month, Commonwealth Games in July and more importantly the World Championships in August. Yesterday, the world No. 6 Zii Jia, who overturned a 4-12 deficit to win against Indonesia’s Shesar Hiren in the quarter-finals, again crawled back into the game in the title match against China’s Li Shifeng at the Impact Arena in Bangkok."
+        
+    }, 
+    {
+        "id":5,
+        "newsInfo":{
+            "author":"WoV",
+            "datePublished":"May 22, 2022", 
+            "sportTag":"Volleyball", 
+            "tournament":"CEV Champions League Volley | Men"
+        }, 
+        "title":"CL M: Semeniuk, “Today such a day came out, everything was hot in my performance",
+        "img":"https://worldofvolley.com/wp-content/uploads/2022/05/Kamil-Semeniuk-1.jpg", 
+        "excerpt":"Grupa Azoty Kędzierzyn-Koźle (ZAKSA) beat Trentino Itas 3-0 and became the CEV Champions League Volley | Men champion for the second time. Their outside hitter Kamil Semeniuk was phenomenal in the Super Finals.", 
+        "body":"Semeniuk had an amazing day in the CEV Champions League Volley 2022 | Men decider, scoring 27 points, successfully completing 26 out of 35 attacks, and achieving a total success rate of 74%. These figures are truly rarely seen in the final match of any major competition. And also Semeniuk scored the last point of the match, leading ZAKSA fans into ecstasy in his, most likely, farewell match in the jersey of the PlusLiga titleholders."
+        
+    }, 
+    {
+        "id":6,
+        "newsInfo":{
+            "author":"ANTONI CICHY",
+            "datePublished":"May 22, 2022", 
+            "sportTag":"Archery", 
+            "tournament":"Hyundai Archery World Cup"
+        }, 
+        "title":"Korea's recurve teams take double gold on home soil",
+        "img":"https://worldarchery.sport/sites/default/files/styles/header_desktop/public/2022-05/i-vKj6nmH-X3.jpg?h=00b051b7&itok=1BTxSoAz", 
+        "excerpt":"Both the women's and men's recurve teams of Korea took gold at the second stage of the Hyundai Archery World Cup in Gwangju this morning.", 
+        "body":"They won in a dominant style to mark the comeback of the circuit to Korea after 15 years. Korea's An San, Choi Misun and Lee Gahyun defeated a Germany side featuring Katharina Bauer, Michelle Kroppen and Charline Schwarz 5-1. It was the second, successive recurve women's team World Cup silver for the European trio after they lost to Great Britain in Antalya last month."
+    }
+]

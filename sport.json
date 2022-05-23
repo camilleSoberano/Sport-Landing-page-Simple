@@ -1,0 +1,33 @@
+[
+    {
+        
+        "id":1,
+        "name": "Olympic Games",
+        "listOfGames":[
+            "Archery", "Athletics", "Artistic Swimming", 
+            "Badminton", "Basketball", "Beach Volleyball", "Golf",
+            "Hockey","Judo", "Road Cycling", "Rugby"
+        ]
+    }, 
+    {
+        "id":2,
+        "name":"Olympic Winter Games",
+        "listOfGames":["Alpine Skiing", "Bobsleigh", "Figure Skating", "Biathlon", "Ice Hockey","Luge", "Curling", "Figure Skating", "Ski Jumping"]
+    }, 
+ {
+     "id":3, 
+     "name":"Youth Olympic Games", 
+     "listOfGames":[
+        "Wrestling", "Table Tennis", "Sailing", "Shooting", "Swimming", "Tennis", "Taekwondo","Triathlon", "Weightlifting"
+     ]
+ }, 
+ {
+     "id":4, 
+     "name":"Paralympic Games",
+     "listOfGames":[
+            "Archery", "Boccia", "Goalball", 
+                "Cycling", "Athletics"
+     ]
+ }
+
+]
